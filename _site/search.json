@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "UFO Sightings Visualization Analysis",
+      "category" : "",
+      "tags"     : "Technology, Analysis",
+      "url"      : "/blog/ufo-sightings-analysis",
+      "date"     : "2025-11-03 00:00:00 -0600"
+    } ,
+  
+    {
       "title"    : "The Hello World of Blogs",
       "category" : "",
       "tags"     : "Technology, Blogging",
